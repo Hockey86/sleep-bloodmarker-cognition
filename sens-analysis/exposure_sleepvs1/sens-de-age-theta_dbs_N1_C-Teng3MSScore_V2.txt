@@ -1,0 +1,9 @@
+
+	Test of ADE(covariates.1) - ADE(covariates.2) = 0
+
+data:  estimates from med.res
+ADE(covariates.1) - ADE(covariates.2) = 0, p-value = 1
+alternative hypothesis: true ADE(covariates.1) - ADE(covariates.2) is not equal to 0
+95 percent confidence interval:
+ -0.4762973  0.4838312
+

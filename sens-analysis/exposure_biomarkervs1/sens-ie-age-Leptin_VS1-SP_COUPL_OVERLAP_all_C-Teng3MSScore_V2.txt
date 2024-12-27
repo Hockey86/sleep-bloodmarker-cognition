@@ -1,0 +1,9 @@
+
+	Test of ACME(covariates.1) - ACME(covariates.2) = 0
+
+data:  estimates from med.res
+ACME(covariates.1) - ACME(covariates.2) = 3.8164e-16, p-value = 0.9932
+alternative hypothesis: true ACME(covariates.1) - ACME(covariates.2) is not equal to 0
+95 percent confidence interval:
+ -0.04678984  0.04723987
+
